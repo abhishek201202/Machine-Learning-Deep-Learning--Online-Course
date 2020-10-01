@@ -1,4 +1,4 @@
-# Machine-Learning(https://www.codingninjas.com/courses/online-machine-learning-course)
+# [Machine-Learning](https://www.codingninjas.com/courses/online-machine-learning-course)
 1. [Intro to Python](https://github.com/abhishek201202/Machine-Learning/blob/master/1%20.%20intro%20to%20python%20.....%20%5Babhishek%20soni%5D.ipynb)
 2. [Conditional and for loops](https://github.com/abhishek201202/Machine-Learning/blob/master/2%20.%20Conditional%20and%20for%20loops%20.....%20%5Babhishek%20soni%5D.ipynb)
 3. [Lists and Dictionaries](https://github.com/abhishek201202/Machine-Learning/blob/master/3%20.%20Lists%20and%20Dictionaries%20.....%20%5Babhishek%20soni%5D.ipynb)
